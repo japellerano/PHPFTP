@@ -1,3 +1,4 @@
+<?php
 Class FTPClient
 {
 	public function __construct()
@@ -41,3 +42,4 @@ Class FTPClient
 		$this->messageArray[] = $message;
 	}
 }
+?>
